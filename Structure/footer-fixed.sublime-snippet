@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<footer data-role="footer" data-position="fixed">
+	<h1>${1:Footer}</h1>
+</footer>
+]]></content>
+	<tabTrigger>jqmfooter:f</tabTrigger>
+	<description>jQuery Mobile: Fixed footer</description>
+</snippet>

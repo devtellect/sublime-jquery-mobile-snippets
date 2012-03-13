@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div data-role="fieldcontain">
+	<label for="${1:number}">${2:label}</label>
+	<input type="number" name="${1}" id="${1}" value="" />
+</div>
+]]></content>
+	<tabTrigger>jqminput:n</tabTrigger>
+	<description>jQuery Mobile: Number input field</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<ul data-role="listview">
+	<li><a href="${1:#}">${2:item1}<span class="ui-li-count">${3:1}</span></a></li>
+	<li><a href="${4:#}">${5:item2}<span class="ui-li-count">${6:2}</span></a></li>
+	<li><a href="${7:#}">${8:item3}<span class="ui-li-count">${9:3}</span></a></li>
+</ul>
+]]></content>
+	<tabTrigger>jqmlistview:cb</tabTrigger>
+	<description>jQuery Mobile: Listview with count bubbles</description>
+</snippet>

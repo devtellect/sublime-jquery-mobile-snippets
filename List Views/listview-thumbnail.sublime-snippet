@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+<ul data-role="listview">
+	<li><a href="${1:#}">${2:item1}</a></li>
+	<li><a href="${3:#}">${4:item2}</a></li>
+	<li><a href="${5:#}">${6:item3}</a></li>
+	<ul data-role="listview">
+		<li>
+			<img src="images/album-bb.jpg" />
+			<h3>Broken Bells</h3>
+			<p>Broken Bells</p>
+		</li>
+		<li>
+			<img src="images/album-hc.jpg" />
+			<h3>Warning</h3>
+			<p>Hot Chip</p>
+		</li>
+		<li>
+			<img src="images/album-p.jpg" />
+			<h3>Wolfgang Amadeus Phoenix</h3>
+			<p>Phoenix</p>
+		</li>
+	</ul>
+</ul>]]></content>
+	<tabTrigger>jqmlistview:t</tabTrigger>
+	<description>jQuery Mobile: Basic listview</description>
+</snippet>

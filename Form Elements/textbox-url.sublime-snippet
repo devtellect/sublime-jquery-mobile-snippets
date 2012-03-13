@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div data-role="fieldcontain">
+	<label for="${1:url}">${2:label}</label>
+	<input type="url" name="${1}" id="${1}" value="" />
+</div>
+]]></content>
+	<tabTrigger>jqminput:u</tabTrigger>
+	<description>jQuery Mobile: Url input field</description>
+</snippet>

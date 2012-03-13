@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div data-role="fieldcontain">
+	<label for="${1:slider}">${2:label}</label>
+	<input type="range" name="${1:slider}" id="${1:slider}" value="${3:25}" min="${4:0}" max="${5:100}" />
+</div>
+]]></content>
+	<tabTrigger>jqmslider</tabTrigger>
+	<description>jQuery Mobile: Slider</description>
+</snippet>

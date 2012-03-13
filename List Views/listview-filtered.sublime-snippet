@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<ul data-role="listview" data-filter="true">
+	<li><a href="${1:#}">${2:item1}</a></li>
+	<li><a href="${3:#}">${4:item2}</a></li>
+	<li><a href="${5:#}">${6:item3}</a></li>
+</ul>
+]]></content>
+	<tabTrigger>jqmlistview:f</tabTrigger>
+	<description>jQuery Mobile: Listview with filter</description>
+</snippet>

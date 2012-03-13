@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<article data-role="content">
+	<p>${1:Content}</p>
+</article><!-- /content -->
+]]></content>
+	<tabTrigger>jqmcontent</tabTrigger>
+	<description>jQuery Mobile: Semantic content</description>
+</snippet>

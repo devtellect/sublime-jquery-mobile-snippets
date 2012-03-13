@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div data-role="controlgroup">
+	<a href="${1:#}" data-role="button">${2:button1}</a>
+	<a href="${3:#}" data-role="button">${4:button2}</a>
+	<a href="${5:#}" data-role="button">${6:button3}</a>
+</div>
+]]></content>
+	<tabTrigger>jqmcontrolgroup</tabTrigger>
+	<description>jQuery Mobile: Control group buttons</description>
+</snippet>

@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<div data-role="collapsible-set">
+	<div data-role="collapsible" data-collapsed="false">
+		<h3>${1:Section 1}</h3>
+		<p>${2:Collapsible content markup 1}</p>
+	</div>
+	<div data-role="collapsible">
+		<h3>${3:Section 2}</h3>
+		<p>${4:Collapsible content markup 2}</p>
+	</div>
+	<div data-role="collapsible">
+		<h3>${5:Section 3}</h3>
+		<p>${6:Collapsible content markup 3}</p>
+	</div>
+</div>]]></content>
+	<tabTrigger>jqmcollapsibleset</tabTrigger>
+	<description>jQuery Mobile: Collapsible sets (accordions)</description>
+</snippet>

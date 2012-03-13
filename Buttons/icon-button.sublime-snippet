@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<a href="${1:#}" data-role="button" data-icon="${2:home}">${3:button}</a>
+]]></content>
+	<tabTrigger>jqmnbutton:i</tabTrigger>
+	<description>jQuery Mobile: Link button with an icon</description>
+</snippet>

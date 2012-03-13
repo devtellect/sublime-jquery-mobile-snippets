@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<header data-role="header" data-position="inline">
+	<a href="#" data-icon="delete">Cancel</a>
+	<h1>${1:Header}</h1>
+	<a href="#" data-icon="gear">Help</a>
+</header><!-- /header -->
+]]></content>
+	<tabTrigger>jqmheader:i</tabTrigger>
+	<description>jQuery Mobile: Semantic inline header</description>
+</snippet>

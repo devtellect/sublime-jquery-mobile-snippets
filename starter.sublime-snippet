@@ -1,0 +1,43 @@
+<snippet>
+	<content><![CDATA[
+<!doctype html>
+<html>
+<head>
+	<title>${1:jQuery Mobile Page}</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.css" />
+	<script src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.js"></script>
+</head>
+<body>
+<section data-role="page">
+	<header data-role="header">
+		<h1>Page header</h1>
+		<nav data-role="navbar">
+			<ul>
+				 <li><a href="#">item1</a></li>
+				 <li><a href="#">item2</a></li>
+				 <li><a href="#">item3</a></li>
+			</ul>
+		</nav>
+	</header><!-- /header -->
+	<article data-role="content">
+		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.</p>
+		<ul data-role="listview">
+			<li><a href="#">item1</a></li>
+			<li><a href="#">item2</a></li>
+			<li><a href="#">item3</a></li>
+		</ul>
+	</article><!-- /content -->
+	<footer data-role="footer">
+		<h4>Page footer</h4>
+	</footer><!-- /footer -->
+</section><!-- /page -->
+</body>
+</html>
+]]></content>
+	<tabTrigger>jqmstarter</tabTrigger>
+	<description>jQuery Mobile starter page</description>
+</snippet>

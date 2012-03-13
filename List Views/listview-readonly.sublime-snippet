@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<ul data-role="listview">
+	<li>${1:item1}</li>
+	<li>${2:item2}</li>
+	<li>${3:item3}</li>
+</ul>
+]]></content>
+	<tabTrigger>jqmlistview:r</tabTrigger>
+	<description>jQuery Mobile: Readonly listview</description>
+</snippet>
+

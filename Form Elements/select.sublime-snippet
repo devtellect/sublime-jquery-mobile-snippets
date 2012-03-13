@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<div data-role="fieldcontain">
+	<label for="${1:select}" class="select">Choose:</label>
+	<select id="${1:select}" name="${1:select}" data-native-menu="false">
+		<option value="value1">option1</option>
+		<option value="value2">option2</option>
+		<option value="value3">option3</option>
+	</select>
+</div>
+]]></content>
+	<tabTrigger>jqmselect</tabTrigger>
+	<description>jQuery Mobile: Select menu</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div data-role="collapsible">
+	<h3>${1:Collapsible header}</h3>
+	<p>${2:Collapsible content markup}</p>
+</div>
+]]></content>
+	<tabTrigger>jqmcollapsible</tabTrigger>
+	<description>jQuery Mobile: Collapsible content markup</description>
+</snippet>

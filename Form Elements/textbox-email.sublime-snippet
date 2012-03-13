@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div data-role="fieldcontain">
+	<label for="${1:email}">${2:label}</label>
+	<input type="email" name="${1}" id="${1}" value="" />
+</div>
+]]></content>
+	<tabTrigger>jqminput:e</tabTrigger>
+	<description>jQuery Mobile: Email input field</description>
+</snippet>

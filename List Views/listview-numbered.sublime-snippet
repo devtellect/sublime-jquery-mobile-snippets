@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<ol data-role="listview">
+	<li><a href="${1:#}">${2:item1}</a></li>
+	<li><a href="${3:#}">${4:item2}</a></li>
+	<li><a href="${5:#}">${6:item3}</a></li>
+</ol>
+]]></content>
+	<tabTrigger>jqmlistview:n</tabTrigger>
+	<description>jQuery Mobile: Numbered listview</description>
+</snippet>

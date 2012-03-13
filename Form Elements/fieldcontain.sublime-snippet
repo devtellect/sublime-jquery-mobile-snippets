@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div data-role="fieldcontain">
+	<fieldset data-role="controlgroup">
+		<legend>${1:Legend}</legend>
+		${2}
+	</fieldset>
+</div>
+]]></content>
+	<tabTrigger>jqmfieldcontain</tabTrigger>
+	<description>jQuery Mobile: Field Contain</description>
+</snippet>

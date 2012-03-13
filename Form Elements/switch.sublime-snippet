@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<label for="${1:flip}">Select slider:</label>
+<select name="${1:flip}" id="${1:flip}" data-role="slider">
+	<option value="off">${2:Off}</option>
+	<option value="on">${3:On}</option>
+</select> 
+]]></content>
+	<tabTrigger>jqmswitch</tabTrigger>
+	<description>jQuery Mobile: Flip toggle switch</description>
+</snippet>

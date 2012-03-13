@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="ui-grid-a">
+	<div class="ui-block-a">${1:column1}</div>
+	<div class="ui-block-b">${2:column2}</div>
+</div>
+]]></content>
+	<tabTrigger>jqmgrida</tabTrigger>
+	<description>jQuery Mobile: Two column grid</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<footer data-role="footer">
+	<h1>${1:Footer}</h1>
+</footer><!-- /footer -->
+]]></content>
+	<tabTrigger>jqmfooter</tabTrigger>
+	<description>jQuery Mobile: Semantic footer</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<a href="${1:#}" data-role="button" data-inline="true" data-rel="dialog" data-transition="pop">${2:Open dialog}</a>
+]]></content>
+	<tabTrigger>jqmdialog</tabTrigger>
+	<description>jQuery Mobile: Dialog</description>
+</snippet>
