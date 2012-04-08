@@ -4,4 +4,5 @@
 ]]></content>
 	<tabTrigger>jqmdialog</tabTrigger>
 	<description>jQuery Mobile: Dialog</description>
+	<scope>text.html</scope>
 </snippet>
