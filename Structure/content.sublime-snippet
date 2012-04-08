@@ -6,4 +6,5 @@
 ]]></content>
 	<tabTrigger>jqmcontent</tabTrigger>
 	<description>jQuery Mobile: Semantic content</description>
+	<scope>text.html</scope>
 </snippet>

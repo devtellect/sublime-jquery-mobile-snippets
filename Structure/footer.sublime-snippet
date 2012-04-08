@@ -6,4 +6,5 @@
 ]]></content>
 	<tabTrigger>jqmfooter</tabTrigger>
 	<description>jQuery Mobile: Semantic footer</description>
+	<scope>text.html</scope>
 </snippet>

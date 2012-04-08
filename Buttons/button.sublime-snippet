@@ -4,4 +4,5 @@
 ]]></content>
 	<tabTrigger>jqmnbutton</tabTrigger>
 	<description>jQuery Mobile: Link button</description>
+	<scope>text.html</scope>
 </snippet>

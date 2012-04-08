@@ -6,4 +6,5 @@
 ]]></content>
 	<tabTrigger>jqmheader:f</tabTrigger>
 	<description>jQuery Mobile: Fixed header</description>
+	<scope>text.html</scope>
 </snippet>

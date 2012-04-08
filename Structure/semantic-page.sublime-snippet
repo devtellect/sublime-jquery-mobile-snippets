@@ -5,7 +5,7 @@
 		<h1>${2:Header}</h1>
 	</header><!-- /header -->
 	<article data-role="content">
-		<p>${3:Content}</p> 
+		<p>${3:Content}</p>
 	</article><!-- /content -->
 	<footer data-role="footer">
 		<h1>${4:Footer}</h1>
@@ -14,4 +14,5 @@
 ]]></content>
 	<tabTrigger>jqmpage</tabTrigger>
 	<description>jQuery Mobile: Basic semantic page</description>
+	<scope>text.html</scope>
 </snippet>

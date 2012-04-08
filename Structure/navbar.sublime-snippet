@@ -4,4 +4,5 @@
 ]]></content>
 	<tabTrigger>jqmnavbar</tabTrigger>
 	<description>jQuery Mobile: Navigation bar</description>
+	<scope>text.html</scope>
 </snippet>

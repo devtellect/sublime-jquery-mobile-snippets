@@ -8,4 +8,5 @@
 ]]></content>
 	<tabTrigger>jqmheader:i</tabTrigger>
 	<description>jQuery Mobile: Semantic inline header</description>
+	<scope>text.html</scope>
 </snippet>

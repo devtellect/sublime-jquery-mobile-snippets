@@ -9,4 +9,5 @@
 ]]></content>
 	<tabTrigger>jqmfieldcontain</tabTrigger>
 	<description>jQuery Mobile: Field Contain</description>
+	<scope>text.html</scope>
 </snippet>

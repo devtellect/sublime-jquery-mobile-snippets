@@ -8,4 +8,5 @@
 ]]></content>
 	<tabTrigger>jqmgridb</tabTrigger>
 	<description>jQuery Mobile: Three column grid</description>
+	<scope>text.html</scope>
 </snippet>

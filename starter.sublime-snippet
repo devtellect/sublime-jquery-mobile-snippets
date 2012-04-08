@@ -40,4 +40,5 @@
 ]]></content>
 	<tabTrigger>jqmstarter</tabTrigger>
 	<description>jQuery Mobile starter page</description>
+	<scope>text.html</scope>
 </snippet>

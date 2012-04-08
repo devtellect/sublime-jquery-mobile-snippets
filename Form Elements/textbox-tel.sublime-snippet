@@ -7,4 +7,5 @@
 ]]></content>
 	<tabTrigger>jqminput:t</tabTrigger>
 	<description>jQuery Mobile: Telephone input field</description>
+	<scope>text.html</scope>
 </snippet>

@@ -11,4 +11,5 @@
 ]]></content>
 	<tabTrigger>jqmselect</tabTrigger>
 	<description>jQuery Mobile: Select menu</description>
+	<scope>text.html</scope>
 </snippet>

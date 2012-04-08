@@ -8,4 +8,5 @@
 ]]></content>
 	<tabTrigger>jqmcontrolgroup</tabTrigger>
 	<description>jQuery Mobile: Control group buttons</description>
+	<scope>text.html</scope>
 </snippet>

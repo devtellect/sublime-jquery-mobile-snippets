@@ -9,4 +9,5 @@
 ]]></content>
 	<tabTrigger>jqmgridc</tabTrigger>
 	<description>jQuery Mobile: Four column grid</description>
+	<scope>text.html</scope>
 </snippet>

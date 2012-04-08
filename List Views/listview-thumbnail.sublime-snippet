@@ -24,4 +24,5 @@
 </ul>]]></content>
 	<tabTrigger>jqmlistview:t</tabTrigger>
 	<description>jQuery Mobile: Basic listview</description>
+	<scope>text.html</scope>
 </snippet>

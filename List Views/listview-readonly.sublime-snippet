@@ -8,5 +8,5 @@
 ]]></content>
 	<tabTrigger>jqmlistview:r</tabTrigger>
 	<description>jQuery Mobile: Readonly listview</description>
+	<scope>text.html</scope>
 </snippet>
-

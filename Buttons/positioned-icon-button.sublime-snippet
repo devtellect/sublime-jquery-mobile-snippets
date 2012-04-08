@@ -4,4 +4,5 @@
 ]]></content>
 	<tabTrigger>jqmnbutton:ip</tabTrigger>
 	<description>jQuery Mobile: Link button with a positioned icon</description>
+	<scope>text.html</scope>
 </snippet>

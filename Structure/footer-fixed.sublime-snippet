@@ -6,4 +6,5 @@
 ]]></content>
 	<tabTrigger>jqmfooter:f</tabTrigger>
 	<description>jQuery Mobile: Fixed footer</description>
+	<scope>text.html</scope>
 </snippet>

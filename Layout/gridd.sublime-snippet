@@ -9,4 +9,5 @@
 </div>]]></content>
 	<tabTrigger>jqmgridd</tabTrigger>
 	<description>jQuery Mobile: Five column grid</description>
+	<scope>text.html</scope>
 </snippet>

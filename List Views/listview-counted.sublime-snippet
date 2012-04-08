@@ -8,4 +8,5 @@
 ]]></content>
 	<tabTrigger>jqmlistview:cb</tabTrigger>
 	<description>jQuery Mobile: Listview with count bubbles</description>
+	<scope>text.html</scope>
 </snippet>

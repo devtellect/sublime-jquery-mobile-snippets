@@ -4,4 +4,5 @@
 ]]></content>
 	<tabTrigger>jqmdivider</tabTrigger>
 	<description>jQuery Mobile: Listview divider</description>
+	<scope>text.html</scope>
 </snippet>

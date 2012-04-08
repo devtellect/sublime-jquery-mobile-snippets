@@ -8,4 +8,5 @@
 ]]></content>
 	<tabTrigger>jqmlistview:n</tabTrigger>
 	<description>jQuery Mobile: Numbered listview</description>
+	<scope>text.html</scope>
 </snippet>

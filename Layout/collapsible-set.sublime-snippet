@@ -16,4 +16,5 @@
 </div>]]></content>
 	<tabTrigger>jqmcollapsibleset</tabTrigger>
 	<description>jQuery Mobile: Collapsible sets (accordions)</description>
+	<scope>text.html</scope>
 </snippet>

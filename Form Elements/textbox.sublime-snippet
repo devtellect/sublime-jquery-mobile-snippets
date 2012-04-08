@@ -7,4 +7,5 @@
 ]]></content>
 	<tabTrigger>jqminput</tabTrigger>
 	<description>jQuery Mobile: Text field</description>
+	<scope>text.html</scope>
 </snippet>

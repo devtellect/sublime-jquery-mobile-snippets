@@ -7,4 +7,5 @@
 ]]></content>
 	<tabTrigger>jqmsearch</tabTrigger>
 	<description>jQuery Mobile: Search input</description>
+	<scope>text.html</scope>
 </snippet>

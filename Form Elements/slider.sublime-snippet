@@ -7,4 +7,5 @@
 ]]></content>
 	<tabTrigger>jqmslider</tabTrigger>
 	<description>jQuery Mobile: Slider</description>
+	<scope>text.html</scope>
 </snippet>

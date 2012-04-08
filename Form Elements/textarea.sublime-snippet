@@ -1,10 +1,11 @@
 <snippet>
 	<content><![CDATA[
-<div data-role="fieldcontain">		
+<div data-role="fieldcontain">
 	<label for="${1}">${2:label}</label>
 	<textarea cols="40" rows="8" name="${1}" id="${1}"></textarea>
 </div>
 ]]></content>
 	<tabTrigger>jqmtextarea</tabTrigger>
 	<description>jQuery Mobile: Text area</description>
+	<scope>text.html</scope>
 </snippet>

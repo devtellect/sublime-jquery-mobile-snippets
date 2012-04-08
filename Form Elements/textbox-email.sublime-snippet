@@ -7,4 +7,5 @@
 ]]></content>
 	<tabTrigger>jqminput:e</tabTrigger>
 	<description>jQuery Mobile: Email input field</description>
+	<scope>text.html</scope>
 </snippet>

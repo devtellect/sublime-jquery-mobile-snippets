@@ -7,4 +7,5 @@
 ]]></content>
 	<tabTrigger>jqminput:u</tabTrigger>
 	<description>jQuery Mobile: Url input field</description>
+	<scope>text.html</scope>
 </snippet>

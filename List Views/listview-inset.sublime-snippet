@@ -8,4 +8,5 @@
 ]]></content>
 	<tabTrigger>jqmlistview:i</tabTrigger>
 	<description>jQuery Mobile: Listview with inset</description>
+	<scope>text.html</scope>
 </snippet>

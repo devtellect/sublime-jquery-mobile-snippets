@@ -8,4 +8,5 @@
 ]]></content>
 	<tabTrigger>jqmlistview:f</tabTrigger>
 	<description>jQuery Mobile: Listview with filter</description>
+	<scope>text.html</scope>
 </snippet>
